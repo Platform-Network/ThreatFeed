@@ -17,8 +17,7 @@
 
 
 ## IP-addresses as detected by Eshgro network engineers ##
-1.2.3.4
-2.3.4.5
+71.6.146.130
 80.82.64.116
 80.82.78.104
 89.248.168.107
@@ -185,5 +184,5 @@
 #rim.census.shodan.io 85.25.43.94
 #shodan.io 66.240.205.34
 #sky.census.shodan.io 80.82.77.33
-#ubtuntu16146130.aspadmin.com
+#ubtuntu16146130.aspadmin.com 71.6.146.130
 #turtle.census.shodan.io 185.181.102.18
