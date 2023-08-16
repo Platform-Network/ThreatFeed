@@ -1,7 +1,7 @@
 ## Subnets as provided by NEH (SOC) ##
 93.114.60.0/24
 
-## Subnets as detected by Eshgro network engineers ##
+## Subnets as detected by network engineers ##
 78.128.112.0/24
 81.22.45.0/24
 198.20.87.96/29
@@ -16,7 +16,7 @@
 ## IP-addresses as provided by NEH (SOC) ##
 
 
-## IP-addresses as detected by Eshgro network engineers ##
+## IP-addresses as detected by network engineers ##
 71.6.146.130
 80.82.64.116
 80.82.78.104
