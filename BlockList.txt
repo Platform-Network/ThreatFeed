@@ -1,5 +1,6 @@
 ## Subnets as provided by NEH (SOC) ##
 93.114.60.0/24
+45.86.93.0/24
 
 ## Subnets as detected by network engineers ##
 78.128.112.0/24
