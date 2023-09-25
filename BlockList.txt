@@ -18,8 +18,28 @@
 
 ## IP-addresses as provided by NEH (SOC) ##
 
+## IP-addresses as detected by network engineers - failed VPN login attempts ##
+5.153.183.227
+166.0.218.49
+45.143.223.103
+193.109.85.5
+166.0.218.49
+166.0.218.49
+193.109.85.5
+193.109.85.5
+193.109.85.5
+166.0.218.49
+5.153.183.227
+45.143.223.103
+166.0.218.49
+185.253.160.157
+185.253.160.157
+185.253.160.157
+166.0.218.49
+193.109.85.5
+193.109.85.5
 
-## IP-addresses as detected by network engineers ##
+## IP-addresses as detected by network engineers - blocked connection attempts ##
 176.125.230.21
 89.248.165.81
 3.9.159.144
