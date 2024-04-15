@@ -35,6 +35,13 @@
 
 ## IP-addresses as detected by network engineers - failed VPN login attempts ##
 ## Controle april 2024 ##
+185.125.50.47
+179.43.183.154
+50.114.107.37
+74.80.255.133
+166.1.14.29
+166.1.15.127
+193.149.129.94
 185.73.125.52
 
 
@@ -284,6 +291,14 @@
 
 
 ## IP-addresses as detected by network engineers - blocked connection attempts ##
+## Controle april 2024 ##
+64.39.106.74
+92.63.197.210
+91.218.114.197
+195.78.54.97
+156.146.60.30
+
+
 ## Controle maart 2024 ##
 79.110.62.185
 66.94.119.243
@@ -292,8 +307,6 @@
 94.156.14.10
 104.129.24.147
 185.197.160.73
-
-
 156.146.41.85
 46.246.3.209
 104.156.155.13
