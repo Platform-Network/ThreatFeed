@@ -34,6 +34,9 @@
 
 ## IP-addresses as detected by network engineers - failed VPN login attempts 
 ## Controle mei 2024 ##
+45.227.254.6
+95.164.150.44
+95.164.150.22
 94.232.47.211
 94.232.47.213
 149.102.232.78
