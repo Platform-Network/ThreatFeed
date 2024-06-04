@@ -33,6 +33,14 @@
 
 
 ## IP-addresses as detected by network engineers - failed VPN login attempts 
+## Controle juni 2024 ##
+79.110.62.82
+185.11.61.124
+109.120.186.86
+181.214.218.77
+216.24.216.117
+84.239.40.220
+
 ## Controle mei 2024 ##
 45.227.254.6
 95.164.150.44
