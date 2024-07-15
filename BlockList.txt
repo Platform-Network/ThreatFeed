@@ -38,6 +38,16 @@
 
 ## IP-addresses as detected by network engineers - failed VPN login attempts 
 ## SaaS-controle juli 2024 ##
+146.70.198.103
+103.108.229.62
+146.70.173.143
+188.241.176.231
+146.70.211.107
+188.241.176.231
+146.70.173.207
+
+
+
 188.130.128.0/24
 109.248.142.0/24
 188.130.220.0/24
@@ -632,9 +642,12 @@
 
 
 ## IP-addresses as detected by network engineers - blocked connection attempts ##
+## Controle juli 2024 ##
+94.102.49.119
+188.241.80.55
+
 ## Controle juni 2024 ##
 149.143.17.234
-
 79.124.49.94
 79.124.60.142
 111.180.206.46
