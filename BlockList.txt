@@ -39,6 +39,17 @@
 
 ## IP-addresses as detected by network engineers - failed VPN login attempts 
 ## SaaS-controle Augustus 2024 ##
+
+79.110.62.9
+80.94.95.240
+80.94.95.175
+79.110.62.8
+83.222.190.218
+185.73.125.52
+80.94.95.220
+45.155.91.100
+62.204.41.3
+
 45.155.91.100
 45.135.232.40
 45.135.232.21
