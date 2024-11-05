@@ -37,12 +37,21 @@
 ## IP-addresses as provided by NEH (SOC) ##
 
 
+
+
 ## IP-addresses as detected by network engineers - failed VPN login attempts 
-## SaaS-controle Oktober 2024 ##
+
+
+## SaaS-controle september 2024 ##
+45.151.99.154
+45.151.99.150
+88.214.26.57
+
 92.255.85.127
 45.130.145.163
 193.3.19.246
-## SaaS-controle Augustus 2024 ##
+
+## SaaS-controle augustus 2024 ##
 109.120.137.186
 109.120.137.35
 185.73.125.52
