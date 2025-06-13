@@ -40,6 +40,18 @@
 
 
 ## IP-addresses as detected by network engineers - failed VPN login attempts 
+## FaaS-controle juni 2025 ##
+77.90.185.43
+146.70.52.14
+146.70.52.199
+89.23.152.255
+195.82.146.28
+185.93.89.245
+194.0.234.236
+195.82.147.29
+185.225.28.10
+80.94.95.106
+
 ## FaaS-controle mei 2025 ##
 168.167.139.114
 45.146.130.12
