@@ -3,6 +3,8 @@
 45.86.93.0/24
 
 ## Subnets as deected by network engineers ##
+95.24.81.0/24
+
 79.124.62.0/24
 
 162.142.125.0/24
