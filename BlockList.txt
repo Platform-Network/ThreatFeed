@@ -48,6 +48,15 @@
 ## IP-addresses as detected by network engineers - failed VPN login attempts, SaaS & FaaS controls.
 # SaaS-Controle Juni 2026 ##
 
+87.120.126.34
+87.120.93.174
+94.156.232.245
+87.120.93.195
+87.120.126.199
+87.120.126.63
+94.156.232.246
+94.156.232.243
+
 104.21.39.184
 45.11.183.39
 80.77.25.22/24
