@@ -54,7 +54,7 @@
 102.220.161.135
 64.89.161.172
 
-# SaaS & FaaS-Controle september 2026 #
+# SaaS & FaaS-Controle oktober 2026 #
 85.239.151.10
 187.108.193.54
 194.180.49.218
